@@ -203,12 +203,91 @@ Every answer must pass:
 
 ---
 
-## 5. Unit 2 Application
+## 5. Subject-Specific Layout Strategy
+
+Use this as a reference strategy while choosing answer format.
+
+### Paper 1: Chordata / Non-Chordata
+
+Must include:
+
+- Evolutionary affinities
+- Comparative anatomy
+- Diagnostic characters
+- Morphological headings
+- Side-by-side comparisons
+
+Best format styles:
+
+- Classification flowcharts
+- Comparative tables
+- Morphological subheadings
+- Evolutionary sequence diagrams
+- Connecting-link diagrams
+
+### Paper 1: Economic Zoology
+
+Must include:
+
+- Scientific names of pests / useful species
+- Life-cycle charts
+- Damage symptoms
+- Control and management methods
+- Economic importance
+
+Best format styles:
+
+- Applied biology focus
+- Bolded management methods
+- Life-cycle flowcharts
+- Pest–damage–control tables
+
+### Paper 2: Physiology / Biochemistry
+
+Must include:
+
+- Specific enzymes
+- Substrates and products
+- Energetic yield, especially ATP count
+- Regulatory steps
+- Physiological significance
+
+Best format styles:
+
+- Biochemical pathways
+- Linear / cyclic flowcharts
+- Feedback loops
+- Enzyme–substrate tables
+
+### Paper 2: Genetics / Evolution
+
+Must include:
+
+- Punnett squares
+- Chromosome maps
+- Mathematical ratios
+- Pedigree charts
+- Historical experiment names
+- Evolutionary timelines
+
+Best format styles:
+
+- Ratio-based presentation
+- Pedigree charts
+- Line timelines
+- Experiment → observation → conclusion format
+
+---
+
+## 6. Unit 2 Application
 
 For **Unit 2: Chordates**, answers must especially emphasize:
 
 - Systematic position
 - Comparative anatomy
+- Evolutionary affinities
+- Morphological headings
+- Side-by-side comparisons
 - Evolutionary transitions
 - Adaptive radiation
 - Chordate diagnostic features

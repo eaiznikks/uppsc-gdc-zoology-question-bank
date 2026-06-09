@@ -1,8 +1,11 @@
 # Important Topics Index
 
-This file will aggregate the important topics from all units after each unit is completed.
+This file aggregates important topics from all units after each unit is completed.
 
 ## Unit 01: Non-Chordates
+Status: Reworked into 20 UPSC / State PSC mains topper-style model answers, each 250–300 words, with diagram / flowchart, key terms and source validation.
+
+Important topics:
 1. Principles and hierarchy of animal taxonomy
 2. Modern classification of non-chordates
 3. Pseudopodia, flagella and cilia as locomotory organelles

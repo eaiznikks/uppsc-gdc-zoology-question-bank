@@ -2,17 +2,26 @@
 
 A structured, unit-wise question-answer bank for the **UPPSC Government Degree College Assistant Professor Zoology Mains Examination**.
 
-## Exam Pattern
+## Exam Pattern and Answer Style
 
 ### Section A: Short Answer Questions
 - 10 questions
 - 8 marks each
-- Strict answer range: 110–125 words
+- Current target answer range from Unit 2 onward: **250–300 words**
 
 ### Section B: Long Answer Questions
 - 10 questions
 - 12 marks each
-- Strict answer range: 175–200 words
+- Current target answer range from Unit 2 onward: **250–300 words**
+
+### Mandatory Answer Style from Unit 2 Onward
+- UPSC / State PSC mains topper-style format
+- 3-part structure: **Introduction → Core Answer → Conclusion**
+- Diagrams / flowcharts wherever useful
+- Boxed diagrams with right-side labels where possible
+- Bullet points under standard zoological subheadings
+- Scientific names underlined using `<u>...</u>` where applicable
+- Key Terms and Source Validation for every answer
 
 ## Content Standard
 

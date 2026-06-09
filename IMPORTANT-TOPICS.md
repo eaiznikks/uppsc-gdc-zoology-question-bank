@@ -25,7 +25,34 @@ This file will aggregate the important topics from all units after each unit is 
 20. Comparative trends from Protozoa to Hemichordata
 
 ## Unit 02: Chordates
-Status: Pending detailed generation.
+Status: Completed in 250–300 word UPSC / State PSC mains topper-style format.
+
+Important topics:
+1. Origin and evolution of chordates
+2. Diagnostic chordate characters
+3. Classification of chordates
+4. Adaptive features of chordates
+5. Protochordates and evolutionary significance
+6. Retrogressive metamorphosis in urochordates
+7. Affinities of <u>Branchiostoma</u>
+8. Amniotes and anamniotes: comparative characters
+9. Integumentary system in amniotes and anamniotes
+10. Skeletal system in amniotes and anamniotes
+11. Digestive system in chordates
+12. Respiratory system evolution in vertebrates
+13. Circulatory system evolution in vertebrates
+14. Urinogenital system in vertebrates
+15. Nervous system evolution in vertebrates
+16. Sense organs in chordates
+17. Spermatogenesis
+18. Oogenesis
+19. Fertilization and biochemistry of fertilization
+20. Types of eggs, egg envelopes and cleavage
+21. Foetal membranes in chick
+22. Placenta development in mammals
+23. Aquatic to terrestrial transition
+24. Comparative anatomy as evidence of evolution
+25. Adaptive radiation of vertebrates
 
 ## Unit 03: Ecology, Animal Behaviour and Evolution
 Status: Pending detailed generation.

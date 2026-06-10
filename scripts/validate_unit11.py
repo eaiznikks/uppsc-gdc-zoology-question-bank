@@ -4,7 +4,7 @@ import re, sys
 from pathlib import Path
 ROOT=Path(__file__).resolve().parents[1]
 UNIT_FILE=ROOT/"Unit-11-Modern-Techniques-in-Molecular-Biology.md"
-REQUIRED_SECTIONS=["Introduction","Diagram / Flowchart","Core Answer","Mains Value Addition","Conclusion","Key Terms","Source Validation"]
+REQUIRED_SECTIONS=["Introduction","Diagram / Flowchart","Core Answer","Significance","Conclusion","Key Terms","Source Validation"]
 MIN_WORDS=250; MAX_WORDS=300; EXPECTED_ANSWERS=20
 
 def word_count(text):

@@ -1,6 +1,6 @@
 # Diagram and Flowchart Library for Zoology Mains Answers
 
-This library standardizes diagrams and flowcharts for UPSC / State PSC style Zoology mains answers.
+This library standardizes diagrams and flowcharts for UPSC / State PSC style Zoology answers.
 
 ## Core Principle
 
@@ -13,7 +13,7 @@ Diagrams should be:
 - Scientifically accurate
 - Useful for scoring marks
 
-The goal is not artistic perfection. The goal is **examiner-friendly representation**.
+The goal is not artistic perfection. The goal is **scientifically complete representation**.
 
 ---
 

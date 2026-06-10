@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Validate Unit 1 UPSC topper-style Zoology mains answers."""
+"""Validate Unit 1 structured Zoology mains answers."""
 
 from __future__ import annotations
 
@@ -14,7 +14,7 @@ REQUIRED_SECTIONS = [
     "Introduction",
     "Diagram / Flowchart",
     "Core Answer",
-    "Mains Value Addition",
+    "Significance",
     "Conclusion",
     "Key Terms",
     "Source Validation",

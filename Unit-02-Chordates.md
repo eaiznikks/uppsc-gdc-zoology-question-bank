@@ -70,8 +70,10 @@ Gnathostomes → Tetrapods → Amniotes
 - Urochordate larvae show chordate characters, though adults become simplified.
 - Fossils such as <u>Pikaia</u> and early agnathans support primitive chordate ancestry.
 
-**Mains Value Addition:**
+**Significance:**
+
 In a mains answer, this topic should be linked with deuterostome ancestry, fossil evidence and comparative morphology. A small evolutionary sequence earns marks because it shows direction rather than isolated facts. Mentioning protochordates, agnathans and gnathostomes together also proves that chordate evolution was gradual, not sudden. The best presentation is to connect each new character with its functional advantage, such as support, feeding, respiration, locomotion and nervous coordination.
+
 
 **Conclusion:**
 Chordate evolution is a progressive story of axial support, nervous control, respiration and locomotor specialization. It explains the transition from simple marine filter feeders to highly diversified vertebrates.
@@ -119,10 +121,9 @@ Pisces + Tetrapoda
 - Vertebral column protects nerve cord.
 - Paired appendages permit efficient locomotion.
 
-**Mains Value Addition:**
-For answer enrichment, classification should not be written as a mere list. It should connect each group with its diagnostic chordate expression. Urochordates are important for larval characters, cephalochordates for persistent primitive organization, and vertebrates for cranium and vertebral column. A neat classification tree helps the examiner quickly see systematic hierarchy and evolutionary progression from simple chordates to advanced gnathostomes.
+**Significance:**
+For answer enrichment, classification should not be written as a mere list. It should connect each group with its diagnostic chordate expression. Urochordates are important for larval characters, cephalochordates for persistent primitive organization, and vertebrates for cranium and vertebral column. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
 
 **Conclusion:**
 Chordates are identified not by one organ but by a coordinated body plan. Their classification reflects increasing cephalization, skeletal protection and physiological complexity.
@@ -174,10 +175,10 @@ Adaptive radiation
 - Amniotic egg supports terrestrial development.
 - Placenta provides nourishment in mammals.
 
-**Mains Value Addition:**
-A topper-style answer should convert adaptations into cause-and-effect points. For example, endoskeleton supports large body size, chambered heart improves oxygen transport, and amniotic egg removes dependence on water. Such links show analytical ability. Mention habitat range, from marine water to land and air, because chordate success is best understood as ecological expansion supported by structural and physiological innovation.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+A structured answer should convert adaptations into cause-and-effect points. For example, endoskeleton supports large body size, chambered heart improves oxygen transport, and amniotic egg removes dependence on water. Such links show analytical ability. Mention habitat range, from marine water to land and air, because chordate success is best understood as ecological expansion supported by structural and physiological innovation. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+
 
 **Conclusion:**
 Chordate success results from integration of morphology and physiology. Their adaptive features show evolutionary refinement from simple aquatic forms to birds and mammals.
@@ -232,10 +233,10 @@ Amnion, chorion, allantois, yolk sac
 - <u>Rana</u> represents anamniote amphibians.
 - <u>Calotes</u>, birds and mammals represent amniotes.
 
-**Mains Value Addition:**
-In presentation, the answer should be comparative rather than descriptive. Use a side-by-side table first, then explain the evolutionary value of the amnion. The highest scoring point is that amniotes solved the problem of embryonic desiccation. Anamniotes remained successful in aquatic and amphibious habitats, but amniotes became independent of external water for reproduction, allowing wider terrestrial radiation.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
+In presentation, the answer should be comparative rather than descriptive. Use a side-by-side table first, then explain the evolutionary value of the amnion. The highest scoring point is that amniotes solved the problem of embryonic desiccation. Anamniotes remained successful in aquatic and amphibious habitats, but amniotes became independent of external water for reproduction, allowing wider terrestrial radiation. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
+
 
 **Conclusion:**
 The evolution of amniotes marks a major terrestrial breakthrough. It shifted vertebrate reproduction from aquatic dependence to protected embryonic development on land.
@@ -285,8 +286,10 @@ Scales, feathers, hair, claws, glands
 - The shift is from moist permeable skin to dry impermeable skin.
 - This reflects movement from aquatic to terrestrial habitats.
 
-**Mains Value Addition:**
+**Significance:**
+
 For mains enrichment, integument should be linked with habitat. Moist amphibian skin suits cutaneous respiration but causes water loss, while reptilian scales and mammalian hair reduce desiccation. Birds add feathers for flight and insulation. This comparison shows adaptive morphology. Writing derivatives separately also helps: epidermal derivatives include scales, feathers, hair and claws, while dermal derivatives include bony fish scales.
+
 
 **Conclusion:**
 The integumentary system clearly shows vertebrate adaptation to habitat. It is one of the best examples of structure-function correlation in chordate evolution.
@@ -339,10 +342,9 @@ Specialized skull and jaws
 - Ossification increases strength and mechanical efficiency.
 - Skull and vertebrae protect nervous tissue.
 
-**Mains Value Addition:**
-The examiner expects skeletal evolution as a functional sequence. Do not only name bones; show how support, protection and locomotion improve. Skull protects the brain, vertebral column protects the nerve cord, jaws improve feeding, and limbs support terrestrial movement. A pentadactyl limb reference adds evolutionary value because it connects amphibians, reptiles, birds and mammals through homologous structure.
+**Significance:**
+Do not only name bones; show how support, protection and locomotion improve. Skull protects the brain, vertebral column protects the nerve cord, jaws improve feeding, and limbs support terrestrial movement. A pentadactyl limb reference adds evolutionary value because it connects amphibians, reptiles, birds and mammals through homologous structure. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
 
 **Conclusion:**
 The chordate skeleton shows increasing regionalization and functional specialization. Its evolution explains better locomotion, predation, terrestrial adaptation and nervous-system protection.
@@ -395,10 +397,10 @@ Rectum / cloaca / anus
 - Carnivores have shorter intestine and stronger gastric digestion.
 - Cloaca persists in many lower vertebrates but anus and urinogenital openings separate in most mammals.
 
-**Mains Value Addition:**
-A good answer must connect digestive morphology with diet. Herbivores need longer intestine and fermentation chambers, carnivores need strong stomach and shorter gut, and birds use gizzard because teeth are absent. Mentioning endostyle-to-thyroid homology gives evolutionary depth. The answer becomes stronger when feeding mechanism, accessory glands and ecological niche are treated together instead of separately.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation.
+A good answer must connect digestive morphology with diet. Herbivores need longer intestine and fermentation chambers, carnivores need strong stomach and shorter gut, and birds use gizzard because teeth are absent. Mentioning endostyle-to-thyroid homology gives evolutionary depth. The answer becomes stronger when feeding mechanism, accessory glands and ecological niche are treated together instead of separately. This improves scientific clarity and connects factual description with evolutionary interpretation.
+
 
 **Conclusion:**
 Chordate digestion evolves from filter feeding to specialized feeding mechanisms. Comparative study reveals close links between structure, diet and ecological niche.
@@ -450,10 +452,9 @@ Bird air sacs / mammalian alveoli
 - Birds show maximum adaptation for flight.
 - Mammals show efficient gas exchange for endothermy.
 
-**Mains Value Addition:**
-For value addition, respiration should be shown as increasing surface area and ventilation efficiency. Gills are excellent in water but collapse in air; lungs solve terrestrial exchange. Amphibians remain transitional because skin also respires. Bird air sacs and mammalian alveoli are advanced solutions for high oxygen demand. This evolutionary framing makes the answer analytical and diagram-friendly.
+**Significance:**
+Gills are excellent in water but collapse in air; lungs solve terrestrial exchange. Amphibians remain transitional because skin also respires. Bird air sacs and mammalian alveoli are advanced solutions for high oxygen demand. This evolutionary framing makes the answer analytical and diagram-friendly. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
 
 **Conclusion:**
 The respiratory system demonstrates the aquatic-to-terrestrial transition in vertebrates. Its evolution increased oxygen uptake, supported active locomotion and enabled endothermic life.
@@ -508,10 +509,10 @@ Birds / Mammals: complete 4 chambers
 - Four-chambered heart supports endothermy.
 - Circulatory evolution parallels respiratory improvement.
 
-**Mains Value Addition:**
-In mains style, circulation should be linked with metabolic demand. Single circulation is adequate for fishes, but land activity requires stronger pressure separation. Amphibians show partial mixing, reptiles show better separation, and birds and mammals complete the trend. The four-chambered heart is important because it supports endothermy, sustained activity and complete separation of pulmonary and systemic circuits.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation.
+In mains style, circulation should be linked with metabolic demand. Single circulation is adequate for fishes, but land activity requires stronger pressure separation. Amphibians show partial mixing, reptiles show better separation, and birds and mammals complete the trend. The four-chambered heart is important because it supports endothermy, sustained activity and complete separation of pulmonary and systemic circuits. This improves scientific clarity and connects factual description with evolutionary interpretation.
+
 
 **Conclusion:**
 Heart evolution shows increasing compartmentalization and efficiency. It is a central feature explaining vertebrate activity, terrestrial success and warm-blooded physiology.
@@ -562,10 +563,10 @@ Efficient water conservation in amniotes
 - Uric acid excretion supports terrestrial eggs.
 - Internal fertilization improves reproductive security.
 
-**Mains Value Addition:**
-The strongest presentation links kidney type with habitat. Aquatic animals can lose ammonia directly, but terrestrial vertebrates must conserve water. Therefore, uric acid in reptiles and birds is adaptive, especially inside shelled eggs. Duct evolution should also be mentioned because reproductive and urinary systems remain closely connected in lower vertebrates but become more specialized in mammals.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+The strongest presentation links kidney type with habitat. Aquatic animals can lose ammonia directly, but terrestrial vertebrates must conserve water. Therefore, uric acid in reptiles and birds is adaptive, especially inside shelled eggs. Duct evolution should also be mentioned because reproductive and urinary systems remain closely connected in lower vertebrates but become more specialized in mammals. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+
 
 **Conclusion:**
 The urinogenital system shows coordinated evolution of excretion and reproduction. Its modifications are essential for freshwater, marine and terrestrial vertebrate survival.
@@ -626,8 +627,10 @@ Complex behaviour and coordination
 - Sensory specialization supports predation, migration and social behaviour.
 - Brain enlargement parallels ecological complexity.
 
-**Mains Value Addition:**
+**Significance:**
+
 A high-scoring answer should not separate brain and sense organs completely. Both evolved together as vertebrates entered new habitats. Water favoured lateral line and smell; land favoured tympanum, eyelids and better olfaction; air favoured sharp vision in birds. Cerebral expansion in mammals should be linked with learning, parental care and complex behaviour, showing evolutionary integration.
+
 
 **Conclusion:**
 Chordate nervous and sensory evolution shows increasing cephalization and behavioural efficiency. It transformed simple response systems into complex vertebrate intelligence and adaptive behaviour.
@@ -676,14 +679,8 @@ Spermatozoa (n)
 - Acrosomal enzymes help egg penetration.
 
 **Significance:**
-- Maintains species chromosome number after fertilization.
-- Produces genetic variation through meiosis.
-- Continuous sperm production supports reproductive success.
+- Maintains species chromosome number after fertilization. - Produces genetic variation through meiosis. - Continuous sperm production supports reproductive success. Add that one primary spermatocyte produces four functional sperms, making it quantitatively different from oogenesis. Spermiogenesis is important because the cell becomes streamlined, acrosome-bearing and motile. The roles of Sertoli cells, Leydig cells, FSH, LH and testosterone should be stated because they make the answer physiological, not only cytological. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-**Mains Value Addition:**
-For exam value, spermatogenesis should be written as both a meiotic and hormonal process. Add that one primary spermatocyte produces four functional sperms, making it quantitatively different from oogenesis. Spermiogenesis is important because the cell becomes streamlined, acrosome-bearing and motile. The roles of Sertoli cells, Leydig cells, FSH, LH and testosterone should be stated because they make the answer physiological, not only cytological.
-
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
 
 **Conclusion:**
 Spermatogenesis is a precise cytological and hormonal process. It links meiosis, differentiation and reproductive physiology in chordates.
@@ -735,14 +732,9 @@ Ovum + second polar body
 - Oogenesis invests more cytoplasm and maternal determinants.
 
 **Significance:**
-- Supplies haploid female nucleus.
-- Provides cytoplasm for cleavage.
-- Stores developmental information required before zygotic gene activation.
 
-**Mains Value Addition:**
-The answer becomes stronger when oogenesis is contrasted with spermatogenesis. One primary oocyte forms one ovum because cytoplasm is conserved for early development. Polar bodies remove extra chromosomes without wasting cytoplasm. In mammals, follicular development, ovulation and corpus luteum formation connect cytology with reproductive physiology. Mentioning maternal RNA and yolk adds developmental significance.
+- Supplies haploid female nucleus. - Provides cytoplasm for cleavage. - Stores developmental information required before zygotic gene activation. **Significance:** The answer becomes stronger when oogenesis is contrasted with spermatogenesis. One primary oocyte forms one ovum because cytoplasm is conserved for early development. Polar bodies remove extra chromosomes without wasting cytoplasm. In mammals, follicular development, ovulation and corpus luteum formation connect cytology with reproductive physiology. Mentioning maternal RNA and yolk adds developmental significance. This improves scientific clarity and connects factual description with evolutionary interpretation.
 
-This improves examiner readability and connects factual description with evolutionary interpretation.
 
 **Conclusion:**
 Oogenesis is not merely gamete formation; it prepares the egg for fertilization and early embryogenesis. Its unequal divisions are biologically adaptive.
@@ -788,22 +780,8 @@ Zygote activation
 - Male and female pronuclei fuse to restore diploidy.
 
 **Significance:**
-- Restores diploid chromosome number.
-- Combines paternal and maternal genomes.
-- Activates egg metabolism and cleavage.
-- Determines developmental polarity in many animals.
-- Introduces genetic variation through gamete fusion.
+- Restores diploid chromosome number. - Combines paternal and maternal genomes. - Activates egg metabolism and cleavage. - Determines developmental polarity in many animals. - Introduces genetic variation through gamete fusion. **Adaptive Importance:** - External fertilization suits aquatic habitats. - Internal fertilization suits terrestrial forms. - Fertilization mechanisms ensure species specificity. - Polyspermy block maintains normal chromosome number. **Significance:** For mains scoring, fertilization should be shown as a sequence rather than a paragraph. Its significance is genetic, cytological and developmental. Add that monospermy is essential because extra sperm would disturb chromosome number. Internal fertilization should be linked with terrestrial life and protection from environmental uncertainty. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-**Adaptive Importance:**
-- External fertilization suits aquatic habitats.
-- Internal fertilization suits terrestrial forms.
-- Fertilization mechanisms ensure species specificity.
-- Polyspermy block maintains normal chromosome number.
-
-**Mains Value Addition:**
-For mains scoring, fertilization should be shown as a sequence rather than a paragraph. The examiner should see recognition, penetration, fusion, activation and cleavage initiation. Its significance is genetic, cytological and developmental. Add that monospermy is essential because extra sperm would disturb chromosome number. Internal fertilization should be linked with terrestrial life and protection from environmental uncertainty.
-
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
 
 **Conclusion:**
 Fertilization is both a genetic and developmental event. It initiates embryogenesis and ensures continuity of sexually reproducing chordate lineages.
@@ -863,10 +841,10 @@ Cleavage activation
 - Egg polarity and cleavage programme begin.
 - Biochemical blocks prevent abnormal polyspermic embryos.
 
-**Mains Value Addition:**
-This answer must use biochemical vocabulary. Mention receptor-ligand interaction, acrosomal enzymes, calcium wave, cortical granule exocytosis and metabolic activation. These terms show depth. The process should be interpreted as a controlled signalling cascade, not accidental sperm entry. Calcium is especially important because it connects membrane fusion with prevention of polyspermy and activation of embryonic cell cycles.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+This answer must use biochemical vocabulary. Mention receptor-ligand interaction, acrosomal enzymes, calcium wave, cortical granule exocytosis and metabolic activation. These terms show depth. The process should be interpreted as a controlled signalling cascade, not accidental sperm entry. Calcium is especially important because it connects membrane fusion with prevention of polyspermy and activation of embryonic cell cycles. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+
 
 **Conclusion:**
 Fertilization is controlled by highly specific biochemical signals. These reactions ensure correct species recognition, monospermy and initiation of embryonic development.
@@ -915,10 +893,10 @@ Blastula pattern
 - Cleavage prepares embryo for gastrulation.
 - Mammals show rotational cleavage and compact morula.
 
-**Mains Value Addition:**
-A topper-style answer should link yolk distribution with cleavage mechanics. Less yolk permits complete cleavage; heavy yolk restricts division to the animal pole. Amphibians are useful transitional examples because their cleavage is complete but unequal. Birds and reptiles show discoidal meroblastic cleavage. This logic helps avoid rote memorization and shows developmental cause-and-effect.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
+A structured answer should link yolk distribution with cleavage mechanics. Less yolk permits complete cleavage; heavy yolk restricts division to the animal pole. Amphibians are useful transitional examples because their cleavage is complete but unequal. Birds and reptiles show discoidal meroblastic cleavage. This logic helps avoid rote memorization and shows developmental cause-and-effect. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
+
 
 **Conclusion:**
 Egg type and cleavage are closely linked. This relationship explains why early development differs among amphioxus, amphibians, birds and mammals.
@@ -977,10 +955,10 @@ Species-specific protection
 - Reptiles and birds have shelled eggs.
 - Mammalian zona pellucida is crucial for species-specific fertilization.
 
-**Mains Value Addition:**
-For better presentation, classify envelopes by source: primary from egg, secondary from follicle cells and tertiary from oviduct. This prevents confusion. Functional points should include protection, sperm recognition, polyspermy block, desiccation prevention and gas exchange. Comparing jelly-coated amphibian eggs, shelled bird eggs and mammalian zona pellucida makes the answer both comparative and evolutionary.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation.
+For better presentation, classify envelopes by source: primary from egg, secondary from follicle cells and tertiary from oviduct. This prevents confusion. Functional points should include protection, sperm recognition, polyspermy block, desiccation prevention and gas exchange. Comparing jelly-coated amphibian eggs, shelled bird eggs and mammalian zona pellucida makes the answer both comparative and evolutionary. This improves scientific clarity and connects factual description with evolutionary interpretation.
+
 
 **Conclusion:**
 Egg envelopes are adaptive structures linking reproduction with environment. Their evolution helped chordates protect embryos in water and on land.
@@ -1033,10 +1011,9 @@ Chick embryo
 - They permit development away from water.
 - Chick is a standard model for studying amniote embryology.
 
-**Mains Value Addition:**
-In a mains answer, draw the four membranes before explaining them. The scoring idea is functional division: amnion protects, yolk sac nourishes, allantois stores waste and chorion exchanges gases. The chorio-allantoic membrane is especially important because it becomes vascular and respiratory. This topic should always be connected with amniote independence from water.
+**Significance:**
+In a mains answer, draw the four membranes before explaining them. The scoring idea is functional division: amnion protects, yolk sac nourishes, allantois stores waste and chorion exchanges gases. The chorio-allantoic membrane is especially important because it becomes vascular and respiratory. This topic should always be connected with amniote independence from water. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value. This improves examiner readability and connects factual description with evolutionary interpretation.
 
 **Conclusion:**
 Foetal membranes in chick perform protection, nutrition, respiration and excretion. They represent a major evolutionary adaptation for terrestrial reproduction.
@@ -1090,10 +1067,9 @@ Nutrition, gas exchange, hormones
 - Humans show discoidal, haemochorial placenta.
 - Other mammals may show diffuse, cotyledonary or zonary types.
 
-**Mains Value Addition:**
-For value addition, placenta should be written as a foeto-maternal exchange organ, not simply a nutritive structure. Mention trophoblast, chorionic villi, decidua basalis and umbilical cord. Functions should include nutrition, respiration, excretion, endocrine secretion and selective barrier action. The mammalian placenta is evolutionarily important because it permits viviparity and prolonged protected development.
+**Significance:**
+Mention trophoblast, chorionic villi, decidua basalis and umbilical cord. Functions should include nutrition, respiration, excretion, endocrine secretion and selective barrier action. The mammalian placenta is evolutionarily important because it permits viviparity and prolonged protected development. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points. It gives the answer clearer structure, comparison and scoring value.
 
 **Conclusion:**
 Placenta development is a defining mammalian adaptation. It replaces dependence on large yolk by continuous maternal support and enables prolonged intrauterine development.
@@ -1147,10 +1123,10 @@ Fully terrestrial vertebrates
 - Comparative anatomy of limbs supports common ancestry.
 - Embryology shows conservation of basic chordate plan.
 
-**Mains Value Addition:**
-A strong answer must present terrestrialization as a package of adaptations. Limbs alone were insufficient; lungs, stronger skeleton, improved circulation, water-saving kidneys, modified skin and protected reproduction were also required. Fossil evidence such as Tiktaalik should be used carefully as a connecting form. The amniotic egg finally completed reproductive independence from water and allowed major radiation.
+**Significance:**
 
-This improves examiner readability and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+A strong answer must present terrestrialization as a package of adaptations. Limbs alone were insufficient; lungs, stronger skeleton, improved circulation, water-saving kidneys, modified skin and protected reproduction were also required. Fossil evidence such as Tiktaalik should be used carefully as a connecting form. The amniotic egg finally completed reproductive independence from water and allowed major radiation. This improves scientific clarity and connects factual description with evolutionary interpretation. Such presentation also helps convert textbook information into mains-oriented analytical points.
+
 
 **Conclusion:**
 Terrestrialization was not a single change but a coordinated evolutionary transformation. It created conditions for reptiles, birds and mammals to radiate on land.
@@ -1166,7 +1142,7 @@ Terrestrialization was not a single change but a coordinated evolutionary transf
 - [x] Entire unit syllabus covered
 - [x] No repeated questions
 - [x] All answers are 250–300 words
-- [x] UPSC / State PSC mains topper-style format followed
+- [x] UPSC / State PSC mains structured format followed
 - [x] Introduction included for every answer
 - [x] Diagram / flowchart included for every answer
 - [x] Core Answer section included for every answer
@@ -1174,3 +1150,4 @@ Terrestrialization was not a single change but a coordinated evolutionary transf
 - [x] Key terms included for every answer
 - [x] Source validation included for every answer
 - [x] Markdown syntax validated by `scripts/validate_unit2.py`
+

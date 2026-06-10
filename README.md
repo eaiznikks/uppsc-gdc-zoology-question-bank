@@ -15,7 +15,7 @@ A structured, unit-wise question-answer bank for the **UPPSC Government Degree C
 - Current target answer range from Unit 2 onward: **250–300 words**
 
 ### Mandatory Answer Style from Unit 2 Onward
-- UPSC / State PSC mains topper-style format
+- UPSC / State PSC mains structured format
 - 3-part structure: **Introduction → Core Answer → Conclusion**
 - Diagrams / flowcharts wherever useful
 - Boxed diagrams with right-side labels where possible

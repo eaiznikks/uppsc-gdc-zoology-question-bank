@@ -30,7 +30,7 @@
 ### Q1. Discuss Insect taxonomy.
 
 **Introduction:**
-Insect taxonomy is an important topic in **Entomology** dealing with classification of insects using morphology, wings, mouthparts and metamorphosis. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Insect taxonomy is an important topic in **Entomology** dealing with classification of insects using morphology, wings, mouthparts and metamorphosis. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -50,14 +50,9 @@ Apterygota → Exopterygota → Endopterygota
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, insect taxonomy shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -66,11 +61,10 @@ Thus, insect taxonomy shows how zoological knowledge becomes useful in classific
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q2. Discuss General organization of insect body.
 
 **Introduction:**
-General organization of insect body is an important topic in **Entomology** dealing with segmentation of insect body into head, thorax and abdomen. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+General organization of insect body is an important topic in **Entomology** dealing with segmentation of insect body into head, thorax and abdomen. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -90,14 +84,9 @@ Head → Thorax → Abdomen
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, general organization of insect body shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -106,11 +95,10 @@ Thus, general organization of insect body shows how zoological knowledge becomes
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q3. Discuss Insect morphology and mouthparts.
 
 **Introduction:**
-Insect morphology and mouthparts is an important topic in **Entomology** dealing with external structure of insects with adaptive mouthparts and appendages. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Insect morphology and mouthparts is an important topic in **Entomology** dealing with external structure of insects with adaptive mouthparts and appendages. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -130,14 +118,9 @@ Biting → Piercing → Siphoning → Sponging
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, insect morphology and mouthparts shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -146,11 +129,10 @@ Thus, insect morphology and mouthparts shows how zoological knowledge becomes us
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q4. Discuss Neuro-endocrinology in insects.
 
 **Introduction:**
-Neuro-endocrinology in insects is an important topic in **Entomology** dealing with hormonal and nervous control of insect growth, moulting and reproduction. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Neuro-endocrinology in insects is an important topic in **Entomology** dealing with hormonal and nervous control of insect growth, moulting and reproduction. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -170,14 +152,9 @@ Brain → PTTH → Prothoracic gland → Ecdysone → Moulting
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, neuro-endocrinology in insects shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -186,11 +163,10 @@ Thus, neuro-endocrinology in insects shows how zoological knowledge becomes usef
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q5. Discuss Insect ecology and forensic entomology.
 
 **Introduction:**
-Insect ecology and forensic entomology is an important topic in **Entomology** dealing with ecological roles of insects and their use in death investigation. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Insect ecology and forensic entomology is an important topic in **Entomology** dealing with ecological roles of insects and their use in death investigation. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -210,14 +186,9 @@ Corpse → Blowflies → Larvae → PMI estimation
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. Add a labelled example and practical use to make the answer more scoring. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-Add a labelled example and practical use to make the answer more scoring.
 
 **Conclusion:**
 Thus, insect ecology and forensic entomology shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -226,11 +197,10 @@ Thus, insect ecology and forensic entomology shows how zoological knowledge beco
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q6. Discuss Medical entomology.
 
 **Introduction:**
-Medical entomology is an important topic in **Entomology** dealing with study of insects and arthropods involved in disease transmission. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Medical entomology is an important topic in **Entomology** dealing with study of insects and arthropods involved in disease transmission. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -250,14 +220,9 @@ Vector → Pathogen → Host → Disease
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems. Ecological, evolutionary and applied relevance together make the topic important for animal diversity.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, medical entomology shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -266,11 +231,10 @@ Thus, medical entomology shows how zoological knowledge becomes useful in classi
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q7. Discuss Bioluminescence in insects.
 
 **Introduction:**
-Bioluminescence in insects is an important topic in **Entomology** dealing with production of light by living insects through biochemical reaction. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Bioluminescence in insects is an important topic in **Entomology** dealing with production of light by living insects through biochemical reaction. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -290,14 +254,9 @@ Luciferin + O₂ + ATP + luciferase → Light
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, bioluminescence in insects shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -306,11 +265,10 @@ Thus, bioluminescence in insects shows how zoological knowledge becomes useful i
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q8. Discuss Metamorphosis and diapause.
 
 **Introduction:**
-Metamorphosis and diapause is an important topic in **Entomology** dealing with developmental transformation and dormancy in insects. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Metamorphosis and diapause is an important topic in **Entomology** dealing with developmental transformation and dormancy in insects. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -330,14 +288,9 @@ Egg → Larva/Nymph → Pupa → Adult; Stress → Diapause
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, metamorphosis and diapause shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -346,11 +299,10 @@ Thus, metamorphosis and diapause shows how zoological knowledge becomes useful i
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q9. Discuss Methods of insect control and insecticides.
 
 **Introduction:**
-Methods of insect control and insecticides is an important topic in **Entomology** dealing with management of harmful insects by chemical, biological and cultural methods. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Methods of insect control and insecticides is an important topic in **Entomology** dealing with management of harmful insects by chemical, biological and cultural methods. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -370,14 +322,9 @@ Monitoring → Threshold → Control → Evaluation
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. Add a labelled example and practical use to make the answer more scoring. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-Add a labelled example and practical use to make the answer more scoring.
 
 **Conclusion:**
 Thus, methods of insect control and insecticides shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -386,11 +333,10 @@ Thus, methods of insect control and insecticides shows how zoological knowledge 
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q10. Discuss Integrated Pest Management.
 
 **Introduction:**
-Integrated Pest Management is an important topic in **Entomology** dealing with ecologically based pest management combining multiple compatible control methods. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Integrated Pest Management is an important topic in **Entomology** dealing with ecologically based pest management combining multiple compatible control methods. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -410,14 +356,9 @@ Pest monitoring → ETL → Biological + Cultural + Chemical control
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, integrated pest management shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -434,7 +375,7 @@ Thus, integrated pest management shows how zoological knowledge becomes useful i
 ### Q11. Discuss Communication, photoreception and pheromones.
 
 **Introduction:**
-Communication, photoreception and pheromones is an important topic in **Entomology** dealing with sensory communication in insects through visual and chemical signals. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Communication, photoreception and pheromones is an important topic in **Entomology** dealing with sensory communication in insects through visual and chemical signals. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -454,14 +395,9 @@ Signal → Receptor → Behavioural response
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, communication, photoreception and pheromones shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -470,11 +406,10 @@ Thus, communication, photoreception and pheromones shows how zoological knowledg
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q12. Discuss Insect hormones.
 
 **Introduction:**
-Insect hormones is an important topic in **Entomology** dealing with endocrine regulators controlling growth, moulting, metamorphosis and reproduction. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Insect hormones is an important topic in **Entomology** dealing with endocrine regulators controlling growth, moulting, metamorphosis and reproduction. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -494,14 +429,9 @@ PTTH → Ecdysone; Corpora allata → Juvenile hormone
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems. It further connects representative examples with adaptive role, habitat relation, evolutionary trend and applied importance in animal diversity.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, insect hormones shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -510,11 +440,10 @@ Thus, insect hormones shows how zoological knowledge becomes useful in classific
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q13. Discuss Economic importance and social behaviour of insects.
 
 **Introduction:**
-Economic importance and social behaviour of insects is an important topic in **Entomology** dealing with beneficial, harmful and social roles of insects in human life. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Economic importance and social behaviour of insects is an important topic in **Entomology** dealing with beneficial, harmful and social roles of insects in human life. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -534,12 +463,9 @@ Beneficial insects ↔ Pest insects ↔ Social insects
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, economic importance and social behaviour of insects shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -548,11 +474,10 @@ Thus, economic importance and social behaviour of insects shows how zoological k
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q14. Discuss Fish morphology, taxonomy and diversity.
 
 **Introduction:**
-Fish morphology, taxonomy and diversity is an important topic in **Fish and Fisheries** dealing with structural, taxonomic and habitat diversity of fishes. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish morphology, taxonomy and diversity is an important topic in **Fish and Fisheries** dealing with structural, taxonomic and habitat diversity of fishes. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -572,14 +497,9 @@ Agnatha → Chondrichthyes → Osteichthyes
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, fish morphology, taxonomy and diversity shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -588,11 +508,10 @@ Thus, fish morphology, taxonomy and diversity shows how zoological knowledge bec
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q15. Discuss Fish organ systems and functions.
 
 **Introduction:**
-Fish organ systems and functions is an important topic in **Fish and Fisheries** dealing with major organ systems enabling aquatic life in fishes. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish organ systems and functions is an important topic in **Fish and Fisheries** dealing with major organ systems enabling aquatic life in fishes. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -612,14 +531,9 @@ Gills + Fins + Lateral line + Swim bladder
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, fish organ systems and functions shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -628,11 +542,10 @@ Thus, fish organ systems and functions shows how zoological knowledge becomes us
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q16. Discuss Fish breeding and induced breeding.
 
 **Introduction:**
-Fish breeding and induced breeding is an important topic in **Fish and Fisheries** dealing with natural and artificial methods of fish reproduction for seed production. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish breeding and induced breeding is an important topic in **Fish and Fisheries** dealing with natural and artificial methods of fish reproduction for seed production. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -652,14 +565,9 @@ Brood stock → Hormone injection → Spawning → Hatchery seed
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. Add a labelled example and practical use to make the answer more scoring. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-Add a labelled example and practical use to make the answer more scoring.
 
 **Conclusion:**
 Thus, fish breeding and induced breeding shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -668,11 +576,10 @@ Thus, fish breeding and induced breeding shows how zoological knowledge becomes 
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q17. Discuss Fish diseases and control.
 
 **Introduction:**
-Fish diseases and control is an important topic in **Fish and Fisheries** dealing with infectious, parasitic and environmental diseases of cultured fishes. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish diseases and control is an important topic in **Fish and Fisheries** dealing with infectious, parasitic and environmental diseases of cultured fishes. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -692,14 +599,9 @@ Stress → Pathogen → Disease → Treatment + Prevention
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, fish diseases and control shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -708,11 +610,10 @@ Thus, fish diseases and control shows how zoological knowledge becomes useful in
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q18. Discuss Fish preservation and processing.
 
 **Introduction:**
-Fish preservation and processing is an important topic in **Fish and Fisheries** dealing with methods used to prevent spoilage and add value to fish products. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish preservation and processing is an important topic in **Fish and Fisheries** dealing with methods used to prevent spoilage and add value to fish products. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -732,14 +633,9 @@ Landing → Chilling → Processing → Storage → Marketing
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats. Comparative examples reveal gradual specialization from simple organization to more efficient systems.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, fish preservation and processing shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -748,11 +644,10 @@ Thus, fish preservation and processing shows how zoological knowledge becomes us
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q19. Discuss Fish culture, aquaculture and polyculture.
 
 **Introduction:**
-Fish culture, aquaculture and polyculture is an important topic in **Fish and Fisheries** dealing with controlled rearing of fishes in ponds, tanks, cages or integrated systems. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Fish culture, aquaculture and polyculture is an important topic in **Fish and Fisheries** dealing with controlled rearing of fishes in ponds, tanks, cages or integrated systems. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -772,14 +667,9 @@ Pond preparation → Stocking → Feeding → Harvesting
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. Add a labelled example and practical use to make the answer more scoring. It shows the relation between structure, function and adaptation in a clear zoological frame.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-Add a labelled example and practical use to make the answer more scoring.
 
 **Conclusion:**
 Thus, fish culture, aquaculture and polyculture shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -788,11 +678,10 @@ Thus, fish culture, aquaculture and polyculture shows how zoological knowledge b
 
 **Source Validation:** Imms General Textbook of Entomology; Chapman The Insects; FAO fisheries manuals; Jhingran Fish and Fisheries of India; ICAR/CIFE aquaculture references.
 
-
 ### Q20. Discuss Capture fisheries, pond fishes and aquarium management.
 
 **Introduction:**
-Capture fisheries, pond fishes and aquarium management is an important topic in **Fish and Fisheries** dealing with harvesting natural fish stocks and maintaining ornamental fish systems. In Zoology mains, it should be presented through definition, structure/process, examples and applied significance.
+Capture fisheries, pond fishes and aquarium management is an important topic in **Fish and Fisheries** dealing with harvesting natural fish stocks and maintaining ornamental fish systems. In Zoology, it should be presented through definition, structure/process, examples and applied significance.
 
 **Diagram / Flowchart:**
 
@@ -812,12 +701,9 @@ Natural water → Capture; Aquarium → Filtration + Feeding + Health care
 **Applied / Evolutionary Significance:**
 This topic is exam-relevant because it connects animal structure, function and human use. Insects affect agriculture, health and ecosystems, while fishes support nutrition, employment and aquatic biodiversity. Scientific understanding therefore improves identification, control, culture or conservation.
 
-**Mains Value Addition:**
-A topper-style answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note.
+**Significance:**
+A structured answer should avoid plain description. Start with the definition, draw a small labelled flowchart, add two examples and end with economic, ecological or management relevance. For applied topics, include prevention, sustainability and integrated management wherever possible. This makes the answer suitable for State PSC mains rather than a textbook note. The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram. It shows the relation between structure, function and adaptation in a clear zoological frame. The concept also explains survival, feeding, movement, protection, reproduction and coordination in different habitats.
 
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
-
-The answer can be made more scoring by adding one Indian example, one technical keyword and one neat arrow diagram.
 
 **Conclusion:**
 Thus, capture fisheries, pond fishes and aquarium management shows how zoological knowledge becomes useful in classification, physiology, pest management, aquaculture, conservation and livelihood security.
@@ -834,6 +720,7 @@ Thus, capture fisheries, pond fishes and aquarium management shows how zoologica
 - [x] Entire Unit 4 syllabus covered through entomology and fisheries questions
 - [x] 20 model answers included
 - [x] Every model answer is 250-300 words
-- [x] UPSC/State PSC topper-style structure used
+- [x] UPSC/State PSC structured structure used
 - [x] Diagram/flowchart included in every answer
 - [x] Key terms and source validation included for every answer
+

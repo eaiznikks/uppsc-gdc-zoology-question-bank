@@ -3,7 +3,7 @@
 This file aggregates important topics from all units after each unit is completed.
 
 ## Unit 01: Non-Chordates
-Status: Reworked into 20 UPSC / State PSC mains topper-style model answers, each 250–300 words, with diagram / flowchart, key terms and source validation.
+Status: Reworked into 20 UPSC / State PSC mains structured model answers, each 250–300 words, with diagram / flowchart, key terms and source validation.
 
 Important topics:
 1. Principles and hierarchy of animal taxonomy
@@ -28,7 +28,7 @@ Important topics:
 20. Comparative trends from Protozoa to Hemichordata
 
 ## Unit 02: Chordates
-Status: Completed in 250–300 word UPSC / State PSC mains topper-style format.
+Status: Completed in 250–300 word UPSC / State PSC mains structured format.
 
 Important topics:
 1. Origin and evolution of chordates

@@ -1,10 +1,10 @@
 #!/usr/bin/env python3
-"""Validate Unit 2 UPSC topper-style Zoology mains answers.
+"""Validate Unit 2 structured Zoology mains answers.
 
 Checks:
 - 20 answers total if both short and long sections are complete.
 - Each model answer is 250–300 words.
-- Each answer has required topper-style sections.
+- Each answer has required structured sections.
 - Key Terms and Source Validation are present for every answer.
 """
 

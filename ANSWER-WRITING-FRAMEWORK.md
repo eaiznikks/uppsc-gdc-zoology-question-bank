@@ -1,16 +1,16 @@
-# UPSC Topper-Style Zoology Mains Answer-Writing Framework
+# Zoology Mains Answer-Writing Framework
 
-This framework is mandatory for Unit 2 onward.
+This framework applies to all unit answers.
 
 ## Core Answer Rule
 
-Every model answer must be written in **UPSC / State PSC mains topper style**, not as a textbook note.
+Every model answer must be written in a polished UPSC / State PSC mains format, not as a textbook note.
 
 Target word count for every answer:
 
 - **250–300 words**
 
-The answer must be examiner-friendly, structured, diagram-supported, and rich in zoological terminology.
+The answer must be scientifically complete, structured, diagram-supported, and rich in zoological terminology.
 
 ---
 
@@ -217,7 +217,7 @@ Must include:
 - Morphological headings
 - Side-by-side comparisons
 
-Best format styles:
+Recommended answer layouts:
 
 - Classification flowcharts
 - Comparative tables
@@ -235,7 +235,7 @@ Must include:
 - Control and management methods
 - Economic importance
 
-Best format styles:
+Recommended answer layouts:
 
 - Applied biology focus
 - Bolded management methods
@@ -252,7 +252,7 @@ Must include:
 - Regulatory steps
 - Physiological significance
 
-Best format styles:
+Recommended answer layouts:
 
 - Biochemical pathways
 - Linear / cyclic flowcharts
@@ -270,7 +270,7 @@ Must include:
 - Historical experiment names
 - Evolutionary timelines
 
-Best format styles:
+Recommended answer layouts:
 
 - Ratio-based presentation
 - Pedigree charts

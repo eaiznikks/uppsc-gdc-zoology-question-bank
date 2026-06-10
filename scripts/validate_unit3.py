@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-"""Validate Unit 3 UPSC topper-style Zoology mains answers."""
+"""Validate Unit 3 structured Zoology mains answers."""
 from __future__ import annotations
 import re, sys
 from pathlib import Path
 ROOT = Path(__file__).resolve().parents[1]
 UNIT_FILE = ROOT / "Unit-03-Ecology-Animal-Behaviour-Evolution.md"
-REQUIRED_SECTIONS = ["Introduction","Diagram / Flowchart","Core Answer","Mains Value Addition","Conclusion","Key Terms","Source Validation"]
+REQUIRED_SECTIONS = ["Introduction","Diagram / Flowchart","Core Answer","Significance","Conclusion","Key Terms","Source Validation"]
 MIN_WORDS=250
 MAX_WORDS=300
 EXPECTED_ANSWERS=20
